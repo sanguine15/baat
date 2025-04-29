@@ -9,3 +9,14 @@ fir usme jaake git init kiya
 
 
 aage ka bataye 
+
+
+
+then uss folder mai bakchodi karke apni 
+
+
+git add .
+
+then git commit -m "your commit"
+
+then git push (your branch)
